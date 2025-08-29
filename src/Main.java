@@ -8,10 +8,14 @@ public class Main {
 
 
 // git init
+
 // git add .
 // git commit -m "your message"
+// git remote remove origin
 // git remote add origin                 url
 // git push   -u origin main
+
+
 // if main branch not available create
 // git branch main
 // git checkout main
