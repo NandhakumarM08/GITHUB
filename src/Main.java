@@ -11,7 +11,7 @@ public class Main {
 // git add .
 // git commit -m "your message"
 // git remote add origin                 url
-// git push  origin main
+// git push   -u origin main
 // if main branch not available create
 // git branch main
 // git checkout main
@@ -26,6 +26,6 @@ public class Main {
 // for updates -----------------
 // git add .
 // git commit -m "your message"
-// git push  origin main
+// git push   -u origin main
 
     }}
