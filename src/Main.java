@@ -1,7 +1,10 @@
 public class Main {
     public static void main(String[] args) {
         System.out.printf("Hello and welcome!");
-// create the repo from  this to add to github
+
+
+        System.out.println("this file create in inteliji and push to the github ");
+// create the repo from  this to add to GitHub
 
 
 // git init
@@ -9,7 +12,7 @@ public class Main {
 // git commit -m "your message"
 // git remote add origin                 url
 // git push  origin main
-// if main branch not avaliable create
+// if main branch not available create
 // git branch main
 // git checkout main
 // then
@@ -25,5 +28,4 @@ public class Main {
 // git commit -m "your message"
 // git push  origin main
 
-    }
-}
+    }}
